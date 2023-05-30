@@ -4,13 +4,8 @@
 Sou Analista Desenvolvedor Front-end Júnior I.
 
 - 📖 Formado em ADS(Tecnologia em Análise e Desenvolvimento de Sistemas);
-- 👜 Atualmente trabalho com front-end, porém mexo com front-end e back-end, sendo mais focado em back-end;
+- 👜 Atualmente trabalho com front-end e back-end, sendo mais focado em back-end;
 - 📚 Aprendendo Javascript, Bootstrap, Angular, Java, SpringBoot, Maven, Jboss, TypeScript, SQL, MySql e Elasticsearch;
-- 👩‍💻 Melhor habilidade em Java;
-- 👩‍💻 Sou um jovem muito esforçado, dedicado e disciplinado;
-- 👩‍💻 Nas horas vagas gosto de ler livros, ir para academia, jogar basquete ou voléi ou estudar progemação;
-- 👩‍💻 Estou em uma fase de procura de conhecimento e aprendizagem;
-- 😍 Sou apaixonado e amo Programação e tecnologias;
 
 <div>
 
