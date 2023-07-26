@@ -1,7 +1,5 @@
 #  Olá, Seja bem-vindo(a), Sou o Michael Alcantara 👋
 
-  
-Sou Analista Desenvolvedor Front-end Júnior I.
 
 - 📖 Formado em ADS(Tecnologia em Análise e Desenvolvimento de Sistemas);
 - 👜 Atualmente trabalho com front-end e back-end, sendo mais focado em back-end;
