@@ -31,7 +31,7 @@
 <table align = "center" >
   <tr>
     <td> <img width ="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlcantara&show_icons=true&theme=dark&count_private=true"/> </td>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlcantara&show_icons=true&theme=dark&count_private=false" /> </td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlcantara&show_icons=true&theme=dark&count_private=true" /> </td>
   
   </tr>
 </table>
